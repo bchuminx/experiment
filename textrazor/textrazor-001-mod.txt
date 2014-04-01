@@ -1,0 +1,13 @@
+The 0 0 0
+research 0 B-SUBJ 0
+materials 0 I-SUBJ B-SUBJ
+gave 0 B-REL B-REL
+sufficient 0 0 0
+data 0 B-OBJ B-OBJ
+to 0 0 0
+enhance 0 B-REL B-REL
+the 0 0 0
+organization 0 B-OBJ B-OBJ
+research 0 I-OBJ I-OBJ
+. 0 0 0
+
