@@ -1,0 +1,17 @@
+We 0 B-SUBJ 0
+find 0 B-REL 0
+that 0 0 0
+, 0 0 0
+in 0 0 0
+the 0 0 0
+absence 0 B-OBJ 0
+of 0 I-OBJ 0
+the 0 I-OBJ 0
+shadow 0 I-OBJ 0
+economy 0 I-OBJ 0
+corruption 0 B-SUBJ 0
+that 0 0 0
+increases 0 B-REL 0
+inequality 0 B-OBJ 0
+. 0 0 0
+
